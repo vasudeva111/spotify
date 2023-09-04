@@ -1,0 +1,248 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&family=Poppins&display=swap");
+
+.project {
+  display: flex;
+}
+
+.header {
+  width: 371px;
+  height: 1140px;
+  border: 2px solid black;
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color: #000000;
+}
+
+.section {
+  margin-top: 39px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  margin-left: 30px;
+}
+
+.home {
+  display: flex;
+  margin-top: 20px;
+}
+
+.logo {
+  margin-left: 0px;
+}
+
+.homep {
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding-left: 30px;
+  font-family: DM Sans;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 25px;
+  letter-spacing: -0.06em;
+}
+
+.image {
+  display: flex;
+  justify-content: center;
+}
+.search {
+  color: white;
+  display: flex;
+}
+
+.searchp {
+  display: flex;
+  justify-content: center;
+  padding-left: 30px;
+  font-family: DM Sans;
+  font-size: 20px;
+}
+
+.library {
+  display: flex;
+}
+
+.libraryp {
+  display: flex;
+  justify-content: center;
+  padding-left: 30px;
+  font-family: DM Sans;
+  font-size: 20px;
+  color: white;
+}
+
+.playlist {
+  margin-top: 80px;
+  display: flex;
+}
+.playlistimage {
+  background-color: white;
+}
+.create {
+  display: flex;
+  justify-content: center;
+  padding-left: 30px;
+  font-family: DM Sans;
+  font-size: 20px;
+  color: white;
+}
+
+.liked333{
+  display: flex;
+ align-items: center;
+  
+}
+.likesong334{
+  display: flex;
+  justify-content: center;
+  padding-left: 20px;
+  font-family: DM Sans;
+  font-size: 20px;
+  color: white;
+}
+
+.episode {
+  display: flex;
+}
+
+.episodey {
+  display: flex;
+  justify-content: center;
+  padding-left: 25px;
+  font-family: DM Sans;
+  font-size: 20px;
+  color: white;
+}
+
+.list {
+  color: white;
+  margin-top: 20px;
+  line-height: 40px;
+  font-family: DM Sans;
+  font-size: 19px;
+  font-weight: 700;
+}
+
+.gromet-icon {
+  display: flex;
+  margin-top: 30px;
+}
+
+.install-app {
+  font-family: DM Sans;
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 25px;
+  letter-spacing: -0.0525em;
+  text-align: left;
+  color: white;
+  padding-left: 30px;
+}
+
+.side {
+  width: 1500px;
+  height: 1140px;
+  background: linear-gradient(
+    180deg,
+    #222222 0%,
+    #1f1f1f 11.64%,
+    #171717 25.66%,
+    #161616 32.94%,
+    #151515 35.98%,
+    #131313 44.89%,
+    #121212 55.22%,
+    #121212 75.34%,
+    #121212 85.45%,
+    rgba(18, 18, 18, 0) 100%
+  );
+  margin-top: 10px;
+}
+
+.top-m {
+  margin-top: 10px;
+  margin-inline: 10px;
+}
+
+.arro {
+  float: left;
+}
+
+.userm {
+  float: right;
+}
+
+.secondsection {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.good {
+  font-family: DM Sans;
+  font-size: 38px;
+  font-weight: 700;
+  line-height: 49px;
+  letter-spacing: -0em;
+  text-align: left;
+  color: white;
+  display: flex;
+}
+
+.function {
+  line-height: 40px;
+}
+
+.music-content {
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+.text {
+  font-family: DM Sans;
+  font-size: 29px;
+  font-weight: 700;
+  line-height: 38px;
+  letter-spacing: -0.04em;
+  text-align: left;
+  color: white;
+}
+
+.categories {
+  display: flex;
+  justify-content: space-between;
+}
+
+.categories-2 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer {
+  width: 1500px;
+  height: 112px;
+  background-color: #282828;
+  margin-left: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-background {
+  display: flex;
+  align-items: center;
+  background-color: black;
+}
+
+.artist-title {
+  margin-left: 17px;
+  float: left;
+}
+.music-player {
+  justify-content: center;
+  margin-left: 170px;
+}
+
+.right-option {
+  float: right;
+  margin-left: 100px;
+
+}
